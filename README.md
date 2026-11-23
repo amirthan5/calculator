@@ -118,7 +118,7 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 ```
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d136437d-77b3-4a3d-ac06-65dd82af3636" />
 
 ## RESULT
 
